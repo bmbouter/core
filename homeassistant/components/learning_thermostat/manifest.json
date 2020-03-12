@@ -1,0 +1,8 @@
+{
+  "domain": "learning_thermostat",
+  "name": "Learning Thermostat",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
