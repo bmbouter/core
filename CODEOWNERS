@@ -257,6 +257,7 @@ homeassistant/components/msteams/* @peroyvind
 homeassistant/components/myq/* @bdraco
 homeassistant/components/mysensors/* @MartinHjelmare
 homeassistant/components/mystrom/* @fabaff
+homeassistant/components/nature_sounds/* @bmbouter
 homeassistant/components/neato/* @dshokouhi @Santobert
 homeassistant/components/nederlandse_spoorwegen/* @YarmoM
 homeassistant/components/nello/* @pschmitt
